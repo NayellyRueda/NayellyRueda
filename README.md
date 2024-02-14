@@ -35,7 +35,7 @@
 - 🔭  As a Frontend Developer, I deploy my experience to drive frontend development, contributing significantly to the construction of web and mobile applications.
 - 🌱 I’m currently learning **Flutter.**
 - 💬 Ask me about **React, React Native, Next.js and Expo.**
-- 📫 How to reach me: **angienayelly01@gmial.com**
+- 📫 How to reach me: **angienayelly01@gmail.com**
 - ⚡ Fun fact: **Like to travel 🏍 and listen to music 🎧** 
 - 😄 Pronouns: Naye
 
