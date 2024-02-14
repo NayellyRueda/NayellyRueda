@@ -82,7 +82,7 @@
  
 ---
 
-### 👨🏻‍💻Connect with me:
+### 👩‍💻 Connect with me:
 <div>
   <a href="https://www.linkedin.com/in/nayelly-rueda-15363b219/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="40" height="40"/>
